@@ -1,0 +1,13 @@
+item.StrenghtStatItem.name=Сила
+item.StrenghtStatItem_1.name=Сила (1 Уровень)
+item.StrenghtStatItem_2.name=Сила (2 Уровень)
+item.StrenghtStatItem_3.name=Сила (3 Уровень)
+item.StrenghtStatItem_4.name=Сила (4 Уровень)
+item.StrenghtStatItem_5.name=Сила (5 Уровень)
+item.StrenghtStatItem_6.name=Сила (6 Уровень)
+item.StrenghtStatItem_7.name=Сила (7 Уровень)
+item.StrenghtStatItem_8.name=Сила (8 Уровень)
+item.StrenghtStatItem_9.name=Сила (9 Уровень)
+item.StrenghtStatItem_10.name=Сила (10 Уровень)
+item.StrenghtStatItem.descriprion=Высокий показатель силы хорош для брутальных персонажей. Оказывает влияние на начальное здоровье, урон холодным оружием, грузоподъёмность и навыки «Без оружия» и «Холодное оружие».
+item.StrenghtStatItem.moreInformation= Нажмите Alt для подробной информации

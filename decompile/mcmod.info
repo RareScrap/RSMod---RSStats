@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rsstats",
+  "name": "RSStats",
+  "description": "Add fallout2-like customizable stats.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/RareScrap/RSMod",
+  "updateUrl": "",
+  "authorList": ["RareScrap"],
+  "credits": "Thanks to Dmitry Shamanov for great idea to make this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
